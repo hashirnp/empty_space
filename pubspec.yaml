@@ -1,9 +1,8 @@
 name: empty_space
 description: "Simple Flutter package for adding both vertical and horizontal empty space."
 version: 0.0.1
-homepage: https://github.com/hashirnp/space
-repository: https://github.com/hashirnp/space
-issue_tracker: https://github.com/yourusername/space/issues
+homepage: https://github.com/hashirnp/empty_space
+repository: https://github.com/hashirnp/empty_space
 
 environment:
   sdk: ^3.10.0-290.4.beta
